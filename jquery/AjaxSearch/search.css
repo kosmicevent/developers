@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+#searchtxt{ 
+	background: none repeat scroll 0 0 #FFFFFF; 
+  	 	border-color: #000000; 
+	border-style: solid none solid solid;     
+	border-width:1px; 
+   		color: #000000; 
+	font-size: 13px; 
+	margin: 5px; 
+	margin-right: 0; 
+   		padding: 3px; 
+	display:inline-block; 
+} 
+#searchbtn{ 
+	background-image: url("search.gif"); 
+   		background-position: center center; 
+	background-repeat: no-repeat; 
+ 	border: 1px solid #000000; 
+ 	height: 24px; 
+	width: 24px; 
+	margin: 0; 
+   		padding: 0; 
+	display:inline-block; 
+} 
+#searchox{ 
+	overflow:hidden; 
+	width:450px; 
+} 
